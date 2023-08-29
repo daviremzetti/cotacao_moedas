@@ -92,7 +92,6 @@ public class Tela extends javax.swing.JFrame {
         jPanel1.setMaximumSize(new java.awt.Dimension(180, 180));
         jPanel1.setMinimumSize(new java.awt.Dimension(180, 180));
         jPanel1.setPreferredSize(new java.awt.Dimension(200, 200));
-        jPanel1.setSize(new java.awt.Dimension(200, 200));
 
         jLabel1.setForeground(new java.awt.Color(102, 102, 255));
         jLabel1.setText("USD:");
@@ -116,7 +115,7 @@ public class Tela extends javax.swing.JFrame {
         jLabel4.setText("TIME:");
 
         jLabel5.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel5.setIcon(new javax.swing.ImageIcon("/Users/biancamarques/Downloads/dolar.png")); // NOI18N
+        jLabel5.setIcon(new javax.swing.ImageIcon("C:\\Users\\davi_\\OneDrive\\Documentos\\GitHub\\cotacao_moedas\\src\\main\\java\\br\\com\\senac\\cotacaomoedas\\imagem\\dolar.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
